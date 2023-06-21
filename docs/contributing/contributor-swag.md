@@ -1,27 +1,34 @@
----
-title: Free Swag for Gatsby Contributors!
----
 
-Gatsby relies on contributors from the open source community, and we want to make sure you know how much it means to us that you’re willing to put time and effort into [contributing to Gatsby](/contributing/#how-to-contribute).
+**Show your love for Gatsby with free swag!**
 
-To show our appreciation, _**everyone who contributes to Gatsby is eligible to receive free swag!**_
+We're grateful for all the contributions you make to Gatsby, and we want to show our appreciation with some free swag.
 
-![Gatsby contributors wearing swag. Left image shows a woman wearing a black T-Shirt with a light gray Gatsby logo on it. Middle image shows the Gatsby socks. Right image shows a man wearing a purple T-Shirt with a light purple Gatsby logo on it.](./images/gatsby-swag.jpg)
+Whether you've contributed code, documentation, or anything else, you're eligible to claim a free item from our swag store.
 
-## How to claim your free swag
+We have a variety of items to choose from, including t-shirts, stickers, socks, and more. And best of all, shipping is free worldwide!
 
-If you contribute to the Gatsby organization on GitHub, you can claim your swag by [logging into the Gatsby Store](https://store.gatsbyjs.org/) and requesting a discount code. With five or more contributions, you can claim your _**Level 2**_ swag.
+To claim your free swag, simply log in to the Gatsby Store and request a discount code. With five or more contributions, you'll be eligible for Level 2 swag, which includes even more exclusive items.
 
-If you’ve contributed in other ways, such as giving talks about Gatsby, teaching others to use it, writing Gatsby articles/tutorials, participating in a Gatsby research project, or any other way, please fill out [this short form](https://forms.gle/zBnybrZNjsdpXvDx8) to let us know!
+So what are you waiting for? Claim your free swag today and show your love for Gatsby!
 
-## Details about free swag
+**Here are the details:**
 
-- We will send one item from our [swag store](https://store.gatsbyjs.org/) per swag tier
-- Tier 1 swag includes most items valued 10 dollars or less
-- Tier 2 swag includes most items valued 31 dollars or less
-- Not all items are eligible due to high cost to create the swag. We’ll make it clear which items are not eligible
-- There’s a limit of one free swag item per swag tier
-- Shipping is free worldwide
-- Additional details can be found in our [swag FAQs](https://github.com/gatsbyjs/store.gatsbyjs.org#frequently-asked-questions)
+* You can claim one item per swag tier.
+* Tier 1 swag includes most items valued 10 dollars or less.
+* Tier 2 swag includes most items valued 31 dollars or less.
+* Not all items are eligible due to high cost to create the swag. We’ll make it clear which items are not eligible.
+* There’s a limit of one free swag item per swag tier.
+* Shipping is free worldwide.
 
-> **NOTE:** Worldwide free shipping is a pilot program. If shipping costs get out of control, we may need to adjust this policy in the future.
+**How to claim your free swag:**
+
+1. Log in to the Gatsby Store.
+2. Click on the "Swag" tab.
+3. Click on the "Request a Discount Code" button.
+4. Enter your name and email address.
+5. Select the swag tier you're eligible for.
+6. Click on the "Submit" button.
+
+**Your discount code will be emailed to you shortly.**
+
+**Hurry and claim your free swag today!**
